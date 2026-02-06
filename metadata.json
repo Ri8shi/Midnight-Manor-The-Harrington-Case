@@ -1,0 +1,7 @@
+{
+  "name": "Midnight Manor: The Harrington Case",
+  "description": "An immersive, multimodal noir murder mystery where you interrogate suspects and analyze clues to solve a high-profile crime.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
